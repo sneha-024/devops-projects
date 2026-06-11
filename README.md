@@ -134,9 +134,3 @@ The workflow automatically:
 
 ---
 
-## Author
-
-**Sneha Saraf**
-
-DevOps | AWS | Linux | Docker | CI/CD | Cloud Computing
-
